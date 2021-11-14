@@ -1,0 +1,30 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    color: #ba5a6b;
+    font-family: cursive;
+    font-weight: bold;
+  }
+  
+  button {
+    font-family: fantasy;
+    font-size: 24px;
+    color: #3c063a;
+    font-weight: bold;
+    
+    width: 200px;
+    height: 100px;
+    background-color: #d782dfcc;
+  
+    margin-bottom: 16px;
+  }
+  
+  canvas {
+    display: none;
+  }
